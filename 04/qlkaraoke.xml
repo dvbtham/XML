@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+		<!DOCTYPE karakoe SYSTEM "karaoke.dtd">
+		<karaoke>
+			<HoaDon>
+				<IDHoaDon> HD001</IDHoaDon>
+				<TenKhachHang> Thâm David</TenKhachHang>
+				<TienGio> 150</TienGio>
+				<ChiPhiKhac> 0</ChiPhiKhac>
+				<NgayLap> 23/5/2015</NgayLap>
+
+				<NhatKyPhong>
+					<MaNhatKy> NK001</MaNhatKy>		
+					<Ngay> 23/4/2015</Ngay>			
+					<GioBatDau > 5:00 AM</GioBatDau>
+					<GioKetThuc> 5:00 PM</GioKetThuc> 
+					<GioTinhTien> 5:01 PM</GioTinhTien>
+				</NhatKyPhong>
+
+				<Phong>
+					<IDPhong> P0001</IDPhong>
+					<TenPhong> Phòng 1</TenPhong>
+					<LoaiPhong> Normal</LoaiPhong>
+					<GiaTheoGio> 100</GiaTheoGio>
+					<TrangThaiPhong> Trống</TrangThaiPhong>
+				</Phong>
+			</HoaDon>
+
+			<HoaDon>
+				<IDHoaDon> HD002</IDHoaDon>
+				<TenKhachHang> Thâm David</TenKhachHang>
+				<TienGio> 150</TienGio>
+				<ChiPhiKhac> 0</ChiPhiKhac>
+				<NgayLap> 23/5/2015</NgayLap>
+
+				<NhatKyPhong>
+					<MaNhatKy> NK002</MaNhatKy>	
+					<Ngay> 23/4/2015</Ngay>			
+					<GioBatDau> 5:00 AM</GioBatDau>
+					<GioKetThuc> 5:00 PM</GioKetThuc> 
+					<GioTinhTien> 5:01 PM</GioTinhTien>
+				</NhatKyPhong>
+
+				<NhatKyPhong>
+					<MaNhatKy> NK003</MaNhatKy>		
+					<Ngay> 23/4/2015</Ngay>			
+					<GioBatDau> 5:00 AM</GioBatDau>
+					<GioKetThuc> 5:00 PM</GioKetThuc> 
+					<GioTinhTien> 5:01 PM</GioTinhTien>
+				</NhatKyPhong>
+
+				<Phong>
+					<IDPhong> P0002</IDPhong>
+					<TenPhong> Phòng 2</TenPhong>
+					<LoaiPhong> VIP</LoaiPhong>
+					<GiaTheoGio> 150</GiaTheoGio>
+					<TrangThaiPhong> Trống</TrangThaiPhong>
+				</Phong>
+			</HoaDon>
+		</karaoke>

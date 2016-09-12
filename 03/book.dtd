@@ -1,0 +1,29 @@
+<!DOCTYPE booklist
+[
+<!ELEMENT booklist (book)*>
+<!ELEMENT book (ISBN,title,price,year,author,publisher,warehouse)+>
+		<!ELEMENT ISBN (#PCDATA)>
+		<!ELEMENT title (#PCDATA)>
+		<!ELEMENT price (#PCDATA)> 
+		<!ELEMENT year (#PCDATA)> 
+		<!-- end book -->
+
+	<!ELEMENT author (name,address,URL)>
+		<!ELEMENT name (#PCDATA)>
+		<!ELEMENT address (#PCDATA)>
+		<!ELEMENT URL (#PCDATA)> 
+		<!-- end author -->
+
+	<!ELEMENT publisher (pub_name,pub_address,pub_phone,pub_URL)>
+		<!ELEMENT pub_name (#PCDATA)>
+		<!ELEMENT pub_address (#PCDATA)>
+		<!ELEMENT pub_phone (#PCDATA)>
+		<!ELEMENT pub_URL (#PCDATA)> 
+		<!-- end publisher -->
+
+	<!ELEMENT warehouse (code,address,phone)>
+		<!ELEMENT code (#PCDATA)>
+		<!ELEMENT address (#PCDATA)>
+		<!ELEMENT phone (#PCDATA)>
+		<!-- end warehouse -->
+]>

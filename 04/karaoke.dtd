@@ -1,0 +1,27 @@
+	<!DOCTYPE karaoke
+	[
+	<!ELEMENT karaoke (HoaDon)>
+	<!ELEMENT HoaDon (MaHoaDon,TenKhachHang+,TienGio,ChiPhiKhac,NgayLap,NhatKyPhong+)>
+			<!ELEMENT IDHoaDon (#PCDATA)>
+			<!ELEMENT TenKhachHang (#PCDATA)> 
+			<!ELEMENT TienGio (#PCDATA)> 
+			<!ELEMENT ChiPhiKhac (#PCDATA)> 
+			<!ELEMENT NgayLap (#PCDATA)> 
+			<!-- end HoaDon -->
+
+			<!ELEMENT NhatKyPhong (MaNhatKy,Ngay,GioBatDau,GioKetThuc,GioTinhTien,Phong+)>
+				<!ELEMENT MaNhatKy 		(#PCDATA)>
+				<!ELEMENT Ngay 			(#PCDATA)>
+				<!ELEMENT GioBatDau 	(#PCDATA)> 
+				<!ELEMENT GioKetThuc 	(#PCDATA)>
+				<!ELEMENT GioTinhTien 	(#PCDATA)> 
+				<!-- end NhatKyPhong -->
+
+			<!ELEMENT Phong (IDPhong,TenPhong,LoaiPhong?,GiaTheoGio,TrangThaiPhong)>
+				<!ELEMENT IDPhong (#PCDATA)>
+				<!ELEMENT TenPhong (#PCDATA)>
+				<!ELEMENT LoaiPhong (#PCDATA)> 
+				<!ELEMENT GiaTheoGio (#PCDATA)> 
+				<!ELEMENT TrangThaiPhong (#PCDATA)> 
+				<!-- end Phong -->
+	]>

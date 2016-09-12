@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE phieulichhoc SYSTEM "lichhoc.dtd">
+<phieulichhoc>
+	<sinhvien>
+		<ttsinhvien>
+			<hoten> Thâm</hoten>
+			<lop> CT14A1.11</lop>
+			<diachi> Gia Lai</diachi>
+			<ngaysinh> 15/09/1996</ngaysinh>
+		</ttsinhvien>
+		<ttlichhoc>
+			<stt> 1</stt>
+			<tenmonhoc> XML</tenmonhoc>
+			<giaovien> Đặng Ngọc Huy</giaovien>
+			<thoigian> 4 tiết</thoigian>
+			<phonghoc> 106</phonghoc>
+		</ttlichhoc>
+	</sinhvien>
+	<!-- end sinhvien -->
+	<sinhvien>
+		<ttsinhvien>
+			<hoten> Nguyễn Viết Trí</hoten>
+			<lop> CT14A1.11</lop>
+			<diachi> Đắc Lắk</diachi>
+			<ngaysinh> 15/09/1996</ngaysinh>
+		</ttsinhvien>
+		<ttlichhoc>
+			<stt> 1</stt>
+			<tenmonhoc> XML</tenmonhoc>
+			<giaovien> Đặng Ngọc Huy</giaovien>
+			<thoigian> 4 tiết</thoigian>
+			<phonghoc> 106</phonghoc>
+		</ttlichhoc>
+	</sinhvien>
+	<!-- end sinhvien -->
+	<sinhvien>
+		<ttsinhvien>
+			<hoten> Nguyễn Hoàng Thịnh</hoten>
+			<lop> CT14A1.11</lop>
+			<diachi> Quảng Nam</diachi>
+			<ngaysinh> 15/09/1996</ngaysinh>
+		</ttsinhvien>
+		<ttlichhoc>
+			<stt> 1</stt>
+			<tenmonhoc> XML</tenmonhoc>
+			<giaovien> Đặng Ngọc Huy</giaovien>
+			<thoigian> 4 tiết</thoigian>
+			<phonghoc> 106</phonghoc>
+		</ttlichhoc>
+	</sinhvien>
+	<!-- end sinhvien -->
+</phieulichhoc>

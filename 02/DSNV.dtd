@@ -1,0 +1,21 @@
+<!DOCTYPE danhsachnhanvien
+[
+<!ELEMENT danhsachnhanvien (nhanvien)*>
+<!ELEMENT nhanvien (thongtincanhan,chucvu,bopphan,hocvan,bangluong)+>
+<!ELEMENT thongtincanhan (soid,ten,ngaysinh,quequan)>
+	<!ELEMENT soid (#PCDATA)>
+	<!ELEMENT ten (#PCDATA)>
+	<!ELEMENT ngaysinh (#PCDATA)>
+	<!ELEMENT quequan (#PCDATA)> <!-- end thongtincanhan -->
+
+<!ELEMENT chucvu (#PCDATA)>
+<!ELEMENT bophan (#PCDATA)>
+<!ELEMENT hocvan (#PCDATA)>
+
+<!ELEMENT bangluong (hsluong,phucap,bhyt,bhxh)>
+	<!ELEMENT hsluong (#PCDATA)>
+	<!ELEMENT phucap (#PCDATA)>
+	<!ELEMENT bhyt (#PCDATA)>
+	<!ELEMENT bhxh (#PCDATA)> <!-- end bangluong -->
+
+]>

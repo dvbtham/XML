@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE NEWSPAPER SYSTEM "NEWSPAPER.dtd">
+
+<NEWSPAPER>
+	<ARTICLE AUTHOR="Tran Van Sau">
+		<HEADLINE>Trong nha ngoai pho</HEADLINE>
+		<BYLINE>Moi tinh trac tro</BYLINE>
+		<LEAD>bi hai</LEAD>
+		<BODY>bi hai nha ngan cam</BODY>
+		<NOTES>thu nam hang tuan</NOTES>
+	</ARTICLE>
+
+	<ARTICLE AUTHOR="Tham David" DATE="22/2/2016" EDITION="VNEXPRESS">
+		<HEADLINE>Trong nha ngoai pho</HEADLINE>
+		<BYLINE>Moi tinh trac tro</BYLINE>
+		<LEAD>bi hai</LEAD>
+		<BODY>bi hai nha ngan cam</BODY>
+		<NOTES>thu nam hang tuan</NOTES>
+	</ARTICLE>
+
+	<ARTICLE AUTHOR="Cham Tham" DATE="22/2/2016" EDITION="VNEXPRESS">
+		<HEADLINE>Trong nha ngoai pho</HEADLINE>
+		<BYLINE>Moi tinh trac tro</BYLINE>
+		<LEAD>bi hai</LEAD>
+		<BODY>bi hai nha ngan cam</BODY>
+		<NOTES>thu nam hang tuan</NOTES>
+	</ARTICLE>
+
+	<ARTICLE AUTHOR="Tran Van Sau" DATE="22/2/2016" EDITION="VNEXPRESS" EDITOR="NXB GIAO DUC">
+		<HEADLINE>Trong nha ngoai pho</HEADLINE>
+		<BYLINE>Moi tinh trac tro</BYLINE>
+		<LEAD>bi hai</LEAD>
+		<BODY>bi hai nha ngan cam</BODY>
+		<NOTES>thu nam hang tuan</NOTES>
+	</ARTICLE>
+</NEWSPAPER>

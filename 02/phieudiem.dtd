@@ -1,0 +1,24 @@
+<!DOCTYPE phieudiem
+[
+<!ELEMENT phieudiem (sinhvien)*>
+<!ELEMENT sinhvien (ttsinhvien,ttphieudiem)+>
+	<!ELEMENT ttsinhvien (hoten,lop,diachi,gioitinh,ngaysinh)>
+		<!ELEMENT hoten (#PCDATA)>
+		<!ELEMENT lop (#PCDATA)>
+		<!ELEMENT diachi (#PCDATA)>
+		<!ELEMENT gioitinh (#PCDATA)>
+		<!ELEMENT ngaysinh (#PCDATA)> <!-- end sinhvien -->
+
+	<!ELEMENT ttphieudiem (stt,tenmonhoc,diemcc,diembttrenlop,diembtvenha,diembtnhom,diembtlon,diemgiuaky,diemcuoiky,diemtrungbinh)+>
+		<!ELEMENT stt (#PCDATA)>
+		<!ELEMENT tenmonhoc (#PCDATA)>
+		<!ELEMENT diemcc (#PCDATA)>
+		<!ELEMENT diembttrenlop (#PCDATA)> 
+		<!ELEMENT diembtvenha (#PCDATA)>
+		<!ELEMENT diembtnhom (#PCDATA)>
+		<!ELEMENT diembtlon (#PCDATA)>
+		<!ELEMENT diemgiuaky (#PCDATA)>
+		<!ELEMENT diemcuoiky (#PCDATA)>
+		<!ELEMENT diemtrungbinh (#PCDATA)><!-- end ttphieudiem -->
+
+]>

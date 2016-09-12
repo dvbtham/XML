@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE danhsachnhanvien SYSTEM "DSNV.dtd">
+
+<danhsachnhanvien>
+
+	<nhanvien>
+
+		<thongtincanhan>
+			<soid> 33526</soid>
+			<ten> Thâm</ten>
+			<ngaysinh> 15/09/1996</ngaysinh>
+			<quequan> Gia Lai</quequan>
+		</thongtincanhan> <!-- End thongtincanhan -->
+
+		<chucvu> Quản lý</chucvu>
+		<bophan> Kinh doanh</bophan>
+		<hocvan> Thạc sĩ</hocvan>
+
+		<bangluong>
+
+			<hsluong> 3.2</hsluong>
+			<phucap> 5%</phucap>
+			<bhyt> 50%</bhyt>
+			<bhxh> 50%</bhxh>
+
+		</bangluong> <!-- End bangluong -->
+
+	</nhanvien> <!-- End -->
+
+	<nhanvien>
+
+		<thongtincanhan>
+			<soid> 33527</soid>
+			<ten> Nguyễn Viết Trí</ten>
+			<ngaysinh> 15/09/1996</ngaysinh>
+			<quequan> Đắc Lắk</quequan>
+		</thongtincanhan> <!-- End thongtincanhan -->
+
+		<chucvu> Quản lý</chucvu>
+		<bophan> Kinh doanh</bophan>
+		<hocvan> Thạc sĩ</hocvan>
+
+		<bangluong>
+
+			<hsluong> 3.2</hsluong>
+			<phucap> 5%</phucap>
+			<bhyt> 50%</bhyt>
+			<bhxh> 50%</bhxh>
+
+		</bangluong> <!-- End bangluong -->
+
+	</nhanvien> <!-- End -->
+
+	<nhanvien>
+
+		<thongtincanhan>
+			<soid> 33528</soid>
+			<ten> Nguyễn Văn Duy</ten>
+			<ngaysinh> 15/09/1996</ngaysinh>
+			<quequan> Gia Lai</quequan>
+		</thongtincanhan> <!-- End thongtincanhan -->
+
+		<chucvu> Quản lý</chucvu>
+		<bophan> Kinh doanh</bophan>
+		<hocvan> Thạc sĩ</hocvan>
+
+		<bangluong>
+
+			<hsluong> 3.2</hsluong>
+			<phucap> 5%</phucap>
+			<bhyt> 50%</bhyt>
+			<bhxh> 50%</bhxh>
+
+		</bangluong> <!-- End bangluong -->
+
+	</nhanvien> <!-- End -->
+</danhsachnhanvien>

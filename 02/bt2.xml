@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE phieudiem SYSTEM "phieudiem.dtd">
+<phieudiem>
+	<sinhvien>
+		<ttsinhvien>
+			<hoten> Thâm</hoten>
+			<lop> CT14A1.11</lop>
+			<diachi> Gia Lai</diachi>
+			<gioitinh> Nam</gioitinh>
+			<ngaysinh> 15/09/1996</ngaysinh>
+		</ttsinhvien>
+		<ttphieudiem>
+			<stt> 1</stt>
+			<tenmonhoc> XML</tenmonhoc>
+			<diemcc> 10</diemcc>
+			<diembttrenlop> 8</diembttrenlop>
+			<diembtvenha> 8</diembtvenha>
+			<diembtnhom> 8</diembtnhom>
+			<diembtlon> 8</diembtlon>
+			<diemgiuaky> 8</diemgiuaky>
+			<diemcuoiky> 8</diemcuoiky>
+			<diemtrungbinh> 8</diemtrungbinh>
+		</ttphieudiem>
+	</sinhvien>
+	<!--  end sinhvien -->
+	<sinhvien>
+		<ttsinhvien>
+			<hoten> Nguyễn Viết Trí</hoten>
+			<lop> CT14A1.11</lop>
+			<diachi> Gia Lai</diachi>
+			<gioitinh> Nam</gioitinh>
+			<ngaysinh> 15/09/1996</ngaysinh>
+		</ttsinhvien>
+		<ttphieudiem>
+			<stt> 1</stt>
+			<tenmonhoc> XML</tenmonhoc>
+			<diemcc> 10</diemcc>
+			<diembttrenlop> 8</diembttrenlop>
+			<diembtvenha> 8</diembtvenha>
+			<diembtnhom> 8</diembtnhom>
+			<diembtlon> 8</diembtlon>
+			<diemgiuaky> 8</diemgiuaky>
+			<diemcuoiky> 8</diemcuoiky>
+			<diemtrungbinh> 8</diemtrungbinh>
+		</ttphieudiem>
+	</sinhvien>
+	<!--  end sinhvien -->
+	<sinhvien>
+		<ttsinhvien>
+			<hoten> Nguyễn Hoàng Thịnh</hoten>
+			<lop> CT14A1.11</lop>
+			<diachi> Gia Lai</diachi>
+			<gioitinh> Nam</gioitinh>
+			<ngaysinh> 15/09/1996</ngaysinh>
+		</ttsinhvien>
+		<ttphieudiem>
+			<stt> 1</stt>
+			<tenmonhoc> XML</tenmonhoc>
+			<diemcc> 10</diemcc>
+			<diembttrenlop> 8</diembttrenlop>
+			<diembtvenha> 8</diembtvenha>
+			<diembtnhom> 8</diembtnhom>
+			<diembtlon> 8</diembtlon>
+			<diemgiuaky> 8</diemgiuaky>
+			<diemcuoiky> 8</diemcuoiky>
+			<diemtrungbinh> 8</diemtrungbinh>
+		</ttphieudiem>
+	</sinhvien><!--  end sinhvien -->
+</phieudiem>

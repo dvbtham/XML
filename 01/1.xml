@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<document>
+	<customer>
+		<first_name> Chấm</first_name>
+		<last_name> Thâm</last_name>
+		<orders> 
+			<item>
+				
+				<date> Ngày 15 tháng 8 năm 2016</date>
+				<product_name> Laptop Asus</product_name>
+				<numbers> 2</numbers>
+				<price> 12.000.000 (VND)</price>
+
+			</item>
+		</orders>
+	</customer>
+</document>

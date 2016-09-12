@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TVSCHEDULE SYSTEM "tvschedule.dtd">
+
+<TVSCHEDULE name="VTV3">
+	<channel chan="hai">
+		<banner> gap nhau cuoi tuan</banner>
+		<day>
+			<date>15/5/2016</date>
+			<holiday>chuong trinh hai</holiday>
+		</day>
+	</channel>
+
+	<channel chan="giaitri">
+		<banner> chiec non ky dieu</banner>
+		<day>
+			<date>15/5/2016</date>
+			<programslot vtr="yes">
+				<time>12:00</time>
+				<title>chu de dat nuoc con nguoi</title>
+			</programslot>
+		</day>
+	</channel>
+
+	<channel chan="phongsu">
+		<banner> nhung neo duong dat nuoc</banner>
+		<day>
+			<date>15/5/2016</date>
+			<programslot vtr="yes">
+				<time>12:00</time>
+				<title>nha trang</title>
+				<description> khu du lich nha trang</description>
+			</programslot>
+		</day>
+	</channel>
+
+	<channel chan="thethao">
+		<banner> chung ket champion</banner>
+		<day>
+			<date>15/5/2016</date>
+			<programslot vtr="live">
+				<time>12:00</time>
+				<title>Real Madrid vs Barcelona</title>
+				<description> truc tiep chung ket c1</description>
+			</programslot>
+		</day>
+	</channel>
+	
+</TVSCHEDULE>

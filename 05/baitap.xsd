@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	targetNamespace="http://www.w3schools.com"
+	xmlns="http://www.w3schools.com"
+	elementFormDefault="qualified">
+	<xs:element name="QLHangHoa">
+		<xs:complexType>
+			<xs:sequence>
+				<!-- Thông tin hàng hóa -->
+				<xs:element name="TTHangHoa">	
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="MaHH" value="[A-Z][0-9]{3}" type="xs:string"/>
+							<xs:element name="TenHang" type="xs:string"/>
+							<xs:element name="Gia" type="xs:decimal"/>
+							<xs:element name="LoaiHangHoa" type="xs:string"/>
+							<xs:simpleType>
+								<xs:restriction base="xs:string">
+									<xs:enumeration value="Laptop"/>
+									<xs:enumeration value="Desktop"/>
+									<xs:enumeration value="Thiết bị mạng"/>
+									<xs:enumeration value="Máy in"/>
+									<xs:enumeration value="Máy scan"/>
+									<xs:enumeration value="Linh kiện máy tính"/>
+								</xs:restriction>
+							</xs:simpleType>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<!-- Thông tin bán hàng -->
+				<xs:element name="TTBanHang">	
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="MaHD" value="[0-9]{4}" type="xs:integer"/>
+							<xs:element name="MatHang" type="xs:string"/>
+							<xs:element name="SoLuong" type="xs:depostiveInteger"/>
+							<xs:element name="DonGia" type="xs:depostiveInteger"/>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

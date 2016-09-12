@@ -1,0 +1,18 @@
+<!DOCTYPE phieulichhoc
+[
+<!ELEMENT phieulichhoc (sinhvien)*>
+<!ELEMENT sinhvien (ttsinhvien,ttlichhoc)+>
+	<!ELEMENT ttsinhvien (hoten,lop,diachi,ngaysinh)>
+		<!ELEMENT hoten (#PCDATA)>
+		<!ELEMENT lop (#PCDATA)>
+		<!ELEMENT diachi (#PCDATA)>
+		<!ELEMENT ngaysinh (#PCDATA)> <!-- end sinhvien -->
+
+	<!ELEMENT ttlichhoc (stt,tenmonhoc,giaovien,thoigian,phonghoc)+>
+		<!ELEMENT stt (#PCDATA)>
+		<!ELEMENT tenmonhoc (#PCDATA)>
+		<!ELEMENT giaovien (#PCDATA)>
+		<!ELEMENT thoigian (#PCDATA)> 
+		<!ELEMENT phonghoc (#PCDATA)><!-- end ttlichhoc -->
+
+]>
