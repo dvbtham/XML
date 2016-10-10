@@ -1,0 +1,29 @@
+
+<!ELEMENT qlthuexe (PhieuThue, KhachHang, ChiTietPhieuThue, Xe)*>
+<!-- PhieuThue -->
+<!ELEMENT PhieuThue (MaPhieuThue,NgayThue,NgayTra,ChiTietPhieuThue,KhachHang)+>
+		<!ELEMENT MaPhieuThue (#PCDATA)>
+		<!ELEMENT NgayThue (#PCDATA)> 
+		<!ELEMENT NgayTra (#PCDATA)> 
+		<!ELEMENT ChiTietPhieuThue (MaChiTietPhieuThue,SoNgayThue,Xe)>
+			<!ELEMENT MaChiTietPhieuThue (#PCDATA)> 
+			<!ELEMENT SoNgayThue (#PCDATA)> 
+			<!-- Xe -->
+		<!ELEMENT Xe (BienKiemSoatXe?,HangXe?,TenXe,LoaiXe?,NamSX)> 
+			<!ELEMENT BienKiemSoatXe (#PCDATA)> 
+			<!ELEMENT HangXe (#PCDATA)> 
+			<!ELEMENT TenXe (#PCDATA)> 
+			<!ELEMENT LoaiXe (#PCDATA)> 
+			<!ELEMENT NamSX (#PCDATA)> 
+			<!-- end Xe -->
+			
+			<!-- KhachHang -->
+		<!ELEMENT KhachHang (MaKhachHang,TenKhachHang,DiaChi,(SoDienThoai,SoCMND)?)>
+			<!ELEMENT MaKhachHang (#PCDATA)> 
+			<!ELEMENT TenKhachHang (#PCDATA)> 
+			<!ELEMENT DiaChi (#PCDATA)> 
+			<!ELEMENT SoDienThoai (#PCDATA)> 
+			<!ELEMENT SoCMND (#PCDATA)> 
+			<!-- end KhachHang -->
+			
+		<!-- end PhieuThue -->

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QuanLySinhVien xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3schools.com file:///E:/ILearning/LTPM/XML/07/bt_tonghop/sinhvien.xsd" xmlns="http://www.w3schools.com">
+	<SinhVien>
+			<MaSV>A01</MaSV>
+			<HoSV>Nguyễn Thị</HoSV>
+			<TenSV>Hải</TenSV>
+			<Phai>Nữ</Phai>
+			<NgaySinh>1990-08-06</NgaySinh>
+			<NoiSinh>Hà Nội</NoiSinh>
+			<MaKhoa>TH</MaKhoa>
+			<HocBong>2000000</HocBong>
+	</SinhVien>
+	
+	<SinhVien>
+			<MaSV>A02</MaSV>
+			<HoSV>Nguyễn Thị</HoSV>
+			<TenSV>Hải</TenSV>
+			<Phai>Nữ</Phai>
+			<NgaySinh>1990-08-06</NgaySinh>
+			<NoiSinh>Hà Nội</NoiSinh>
+			<MaKhoa>TH</MaKhoa>
+			<HocBong>2000000</HocBong>
+	</SinhVien>
+	
+	<SinhVien>
+			<MaSV>A01</MaSV>
+			<HoSV>Nguyễn Thị</HoSV>
+			<TenSV>Hải</TenSV>
+			<Phai>Nữ</Phai>
+			<NgaySinh>1990-08-06</NgaySinh>
+			<NoiSinh>Hà Nội</NoiSinh>
+			<MaKhoa>TH</MaKhoa>
+			<HocBong>2000000</HocBong>
+	</SinhVien>
+	</QuanLySinhVien>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="thuexe.css"?>
+<!DOCTYPE thuexe SYSTEM "qlthuexe.dtd">
+
+<qlthuexe>
+	<title>Danh sách thuê xe</title>
+	<PhieuThue>
+		<MaPhieuThue>PT001</MaPhieuThue>
+		<NgayThue>13/4/2015</NgayThue>
+		<NgayTra>13/6/2015</NgayTra>
+
+		<ChiTietPhieuThue>
+			<MaChiTietPhieuThue>CT001</MaChiTietPhieuThue>
+			<SoNgayThue>60</SoNgayThue>
+		</ChiTietPhieuThue>
+
+		<Xe>
+			<BienKiemSoatXe>XE001</BienKiemSoatXe>
+			<HangXe>Honda</HangXe>
+			<TenXe>Wave</TenXe>
+			<LoaiXe>Xe so</LoaiXe>
+			<NamSX>1990</NamSX>
+		</Xe>
+
+		<KhachHang>
+			<MaKhachHang>KH001</MaKhachHang>
+			<TenKhachHang>Nguyen Van A</TenKhachHang>
+			<DiaChi>Da Nang</DiaChi>
+			<SoDienThoai>097846267</SoDienThoai>
+			<SoCMND>4059728226</SoCMND>
+		</KhachHang>
+	</PhieuThue>
+
+	<PhieuThue>
+		<MaPhieuThue>PT002</MaPhieuThue>
+		<NgayThue>13/4/2015</NgayThue>
+		<NgayTra>13/6/2015</NgayTra>
+
+		<ChiTietPhieuThue>
+			<MaChiTietPhieuThue>CT002</MaChiTietPhieuThue>
+			<SoNgayThue>60</SoNgayThue>
+		</ChiTietPhieuThue>
+
+		<Xe>
+			<BienKiemSoatXe>XE002</BienKiemSoatXe>
+			<HangXe>Honda</HangXe>
+			<TenXe>Wave</TenXe>
+			<LoaiXe>Xe so</LoaiXe>
+			<NamSX>1990</NamSX>
+		</Xe>
+
+		<KhachHang>
+			<MaKhachHang>KH002</MaKhachHang>
+			<TenKhachHang>Nguyen Van A</TenKhachHang>
+			<DiaChi>Da Nang</DiaChi>
+			<SoDienThoai>097846267</SoDienThoai>
+			<SoCMND>4059728226</SoCMND>
+		</KhachHang>
+	</PhieuThue>
+
+	<PhieuThue>
+		<MaPhieuThue>PT003</MaPhieuThue>
+		<NgayThue>13/4/2015</NgayThue>
+		<NgayTra>13/6/2015</NgayTra>
+
+		<ChiTietPhieuThue>
+			<MaChiTietPhieuThue>CT003</MaChiTietPhieuThue>
+			<SoNgayThue>60</SoNgayThue>
+		</ChiTietPhieuThue>
+
+		<Xe>
+			<BienKiemSoatXe>XE003</BienKiemSoatXe>
+			<HangXe>Honda</HangXe>
+			<TenXe>Wave</TenXe>
+			<LoaiXe>Xe so</LoaiXe>
+			<NamSX>1990</NamSX>
+		</Xe>
+
+		<KhachHang>
+			<MaKhachHang>KH003</MaKhachHang>
+			<TenKhachHang>Nguyen Van A</TenKhachHang>
+			<DiaChi>Da Nang</DiaChi>
+			<SoDienThoai>097846267</SoDienThoai>
+			<SoCMND>4059728226</SoCMND>
+		</KhachHang>
+	</PhieuThue>
+
+</qlthuexe>

@@ -1,0 +1,11 @@
+
+<!ELEMENT QuanLySinhVien (SinhVien)*>
+<!ELEMENT SinhVien (MaSV,HoSV,TenSV,Phai,NgaySinh?,NoiSinh?,MaKhoa?,HocBong)+>
+<!ELEMENT MaSV (#PCDATA)>
+<!ELEMENT HoSV (#PCDATA)>
+<!ELEMENT TenSV (#PCDATA)>
+<!ELEMENT Phai (#PCDATA)>
+<!ELEMENT NgaySinh (#PCDATA)>
+<!ELEMENT NoiSinh (#PCDATA)>
+<!ELEMENT MaKhoa (#PCDATA)>
+<!ELEMENT HocBong (#PCDATA)>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="qldiem.xsl"?>
+<students>
+	<!-- student -->
+	<student>
+		<studentID> CT0001</studentID>
+		<fullname> Võ Thị Phương Anh</fullname>
+		<GPA> 50</GPA>
+	</student>
+	<!-- end student -->
+	<!-- student -->
+	<student>
+		<studentID> CT0002</studentID>
+		<fullname> Phan Đức Triều</fullname>
+		<GPA> 55</GPA>
+	</student>
+	<!-- end student -->
+	<!-- student -->
+	<student>
+		<studentID> CT0003</studentID>
+		<fullname> Trần Nhật Thành</fullname>
+		<GPA> 66</GPA>
+	</student>
+	<!-- end student -->
+	<!-- student -->
+	<student>
+		<studentID> CT0004</studentID>
+		<fullname> Nguyễn Trịnh Phúc Nhân</fullname>
+		<GPA> 54</GPA>
+	</student>
+	<!-- end student -->
+	<!-- student -->
+	<student>
+		<studentID> CT0005</studentID>
+		<fullname> Nguyễn Quang Hưng</fullname>
+		<GPA> 65</GPA>
+	</student>
+	<!-- end student -->
+	<!-- student -->
+	<student>
+		<studentID> CT0006</studentID>
+		<fullname> Trần Lê Khoa</fullname>
+		<GPA> 56</GPA>
+	</student>
+	<!-- end student -->
+	<!-- student -->
+	<student>
+		<studentID> CT0007</studentID>
+		<fullname> Trần Đỗ Minh Tuấn</fullname>
+		<GPA> 89</GPA>
+	</student>
+	<!-- end student -->
+	<!-- student -->
+	<student>
+		<studentID> CT0008</studentID>
+		<fullname> Trần Thái Sơn</fullname>
+		<GPA> 97</GPA>
+	</student>
+	<!-- end student -->
+	<!-- student -->
+	<student>
+		<studentID> CT0009</studentID>
+		<fullname> Hoàng Minh Trung</fullname>
+		<GPA> 90</GPA>
+	</student>
+	<!-- end student -->
+	<!-- student -->
+	<student>
+		<studentID> CT0010</studentID>
+		<fullname> Trần Bạch Mai</fullname>
+		<GPA> 30</GPA>
+	</student>
+	<!-- end student -->
+	<!-- student -->
+	<student>
+		<studentID> CT0011</studentID>
+		<fullname> Trần Bạch Yến</fullname>
+		<GPA> 45</GPA>
+	</student>
+	<!-- end student -->
+	<!-- student -->
+	<student>
+		<studentID> CT0012</studentID>
+		<fullname> Nguyễn Thanh Yến</fullname>
+		<GPA> 43</GPA>
+	</student>
+	<!-- end student -->
+	<!-- student -->
+	<student>
+		<studentID> CT0013</studentID>
+		<fullname> Phan Hoàng Yến</fullname>
+		<GPA> 60</GPA>
+	</student>
+	<!-- end student -->
+	<!-- student -->
+	<student>
+		<studentID> CT0014</studentID>
+		<fullname> Đỗ Hồng Yến</fullname>
+		<GPA> 70</GPA>
+	</student>
+	<!-- end student -->
+	<!-- student -->
+	<student>
+		<studentID> CT0015</studentID>
+		<fullname> Trần Thị Hiền</fullname>
+		<GPA> 75</GPA>
+	</student>
+	<!-- end student -->
+
+</students>
