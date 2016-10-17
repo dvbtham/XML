@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE StaffsManagement SYSTEM "staff.dtd">
+<?xml-stylesheet type="text/xsl" href="staff.xsl"?>
+<StaffsManagement>
+	<header>Staffs Management</header>
+	<Staff>
+		<Staff_Code> S0001</Staff_Code>
+		<Staff_Name> Trần Văn An</Staff_Name>
+		<Staff_Gender> Male</Staff_Gender>
+		<Staff_Birthday> 02-03-1991 </Staff_Birthday>
+		<Staff_Position> Nhân Viên</Staff_Position>
+		<Staff_Department> KD</Staff_Department>
+		<Staff_Salary> 2.67</Staff_Salary>
+	</Staff>
+	<!-- end staff -->
+	<Staff>
+		<Staff_Code> S0002</Staff_Code>
+		<Staff_Name> Nguyễn Văn Hùng</Staff_Name>
+		<Staff_Gender> Male</Staff_Gender>
+		<Staff_Birthday> 04-07-1988 </Staff_Birthday>
+		<Staff_Position> Trưởng phòng</Staff_Position>
+		<Staff_Department> KT</Staff_Department>
+		<Staff_Salary> 4.65</Staff_Salary>
+	</Staff>
+	<!-- end staff -->
+	<Staff>
+		<Staff_Code> S0003</Staff_Code>
+		<Staff_Name> Trần Văn Vỹ</Staff_Name>
+		<Staff_Gender> Male</Staff_Gender>
+		<Staff_Birthday> 06-06-1993  </Staff_Birthday>
+		<Staff_Position> Nhân Viên</Staff_Position>
+		<Staff_Department> KT</Staff_Department>
+		<Staff_Salary> 2.34</Staff_Salary>
+	</Staff>
+	<!-- end staff -->
+	<Staff>
+		<Staff_Code> S0004</Staff_Code>
+		<Staff_Name> Vũ Hùng Vỹ</Staff_Name>
+		<Staff_Gender> Male</Staff_Gender>
+		<Staff_Birthday> 09-12-1989  </Staff_Birthday>
+		<Staff_Position> Phó phòng</Staff_Position>
+		<Staff_Department> KT</Staff_Department>
+		<Staff_Salary> 3.99</Staff_Salary>
+	</Staff>
+	<!-- end staff -->
+	<Staff>
+		<Staff_Code> S0005</Staff_Code>
+		<Staff_Name> Liệu Trung Phong</Staff_Name>
+		<Staff_Gender> Male</Staff_Gender>
+		<Staff_Birthday> 11-09-1978  </Staff_Birthday>
+		<Staff_Position> Trưởng phòng</Staff_Position>
+		<Staff_Department> KD</Staff_Department>
+		<Staff_Salary> 4.98</Staff_Salary>
+	</Staff>
+	<!-- end staff -->
+	<Staff>
+		<Staff_Code> S0006</Staff_Code>
+		<Staff_Name> Lý Thế Anh</Staff_Name>
+		<Staff_Gender> Male</Staff_Gender>
+		<Staff_Birthday> 14-05-1979  </Staff_Birthday>
+		<Staff_Position> Phó phòng</Staff_Position>
+		<Staff_Department> KD</Staff_Department>
+		<Staff_Salary> 4.65</Staff_Salary>
+	</Staff>
+	<!-- end staff -->
+	<Staff>
+		<Staff_Code> S0007</Staff_Code>
+		<Staff_Name> Văn Công Sơn</Staff_Name>
+		<Staff_Gender> Male</Staff_Gender>
+		<Staff_Birthday> 02-09-1992   </Staff_Birthday>
+		<Staff_Position> Nhân viên</Staff_Position>
+		<Staff_Department> KT</Staff_Department>
+		<Staff_Salary> 3.00</Staff_Salary>
+	</Staff>
+	<!-- end staff -->
+	<Staff>
+		<Staff_Code> S0008</Staff_Code>
+		<Staff_Name> Võ Chí Công</Staff_Name>
+		<Staff_Gender> Male</Staff_Gender>
+		<Staff_Birthday> 09-09-1991    </Staff_Birthday>
+		<Staff_Position> Nhân viên</Staff_Position>
+		<Staff_Department> KD</Staff_Department>
+		<Staff_Salary> 2.67</Staff_Salary>
+	</Staff>
+	<!-- end staff -->
+	<Staff>
+		<Staff_Code> S0009</Staff_Code>
+		<Staff_Name> Lý Thu Thủy</Staff_Name>
+		<Staff_Gender> Female</Staff_Gender>
+		<Staff_Birthday> 07-08-1987    </Staff_Birthday>
+		<Staff_Position> Nhân viên</Staff_Position>
+		<Staff_Department> KD</Staff_Department>
+		<Staff_Salary> 3.33</Staff_Salary>
+	</Staff>
+	<!-- end staff -->
+	<Staff>
+		<Staff_Code> S0010</Staff_Code>
+		<Staff_Name> Lưu Bích Nguyệt</Staff_Name>
+		<Staff_Gender> Male</Staff_Gender>
+		<Staff_Birthday> 09-11-1992   </Staff_Birthday>
+		<Staff_Position> Nhân viên</Staff_Position>
+		<Staff_Department> KT</Staff_Department>
+		<Staff_Salary> 2.34</Staff_Salary>
+	</Staff>
+	<!-- end staff -->
+
+</StaffsManagement>

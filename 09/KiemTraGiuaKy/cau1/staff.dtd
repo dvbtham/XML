@@ -1,0 +1,13 @@
+<!DOCTYPE StaffsManagement
+	[
+<!ELEMENT StaffsManagement (Staff)*>
+<!ELEMENT Staff (Staff_Code,Staff_Name,Staff_Gender,Staff_Birthday?,
+Staff_Position,Staff_Department?,Staff_Salary?)+>
+<!ELEMENT Staff_Code (#PCDATA)>
+<!ELEMENT Staff_Name (#PCDATA)>
+<!ELEMENT Staff_Gender (#PCDATA)>
+<!ELEMENT Staff_Birthday (#PCDATA)>
+<!ELEMENT Staff_Position (#PCDATA)>
+<!ELEMENT Staff_Department (#PCDATA)>
+<!ELEMENT Staff_Salary (#PCDATA)>
+]>

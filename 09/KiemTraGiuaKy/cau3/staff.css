@@ -1,0 +1,20 @@
+
+StaffsManagement{
+	margin: auto;
+	width: 650px;
+	height: auto;
+}
+header{
+	padding-bottom: 10px;
+	display: block;
+	width: 650px;
+	text-align: center;
+	font-size: 25px;
+	text-transform: uppercase;
+	border: 2px solid black;
+}
+Staff{
+	display: block;
+	border: 1px solid black;
+	padding: 10px;
+}

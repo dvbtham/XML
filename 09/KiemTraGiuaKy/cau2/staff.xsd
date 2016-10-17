@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.w3schools.com" xmlns="http://www.w3schools.com" elementFormDefault="qualified">
+	<xs:element name="StaffsManagement">
+		<xs:complexType>
+			<xs:sequence>
+				<!-- Staff informations -->
+				<xs:element name="Staff">	
+					<xs:complexType>
+						<xs:sequence>
+						
+						<xs:element name="Staff_Code">
+						  <xs:simpleType>
+							<xs:restriction base="xs:string">
+							  <xs:pattern value="[A-Z][0-9]{4}"/>
+							</xs:restriction>
+						  </xs:simpleType>
+						</xs:element>
+						
+						<xs:element name="Staff_Name" type="xs:string"/>
+						
+						<xs:element name="Staff_Gender">
+						  <xs:simpleType>
+							<xs:restriction base="xs:string">
+							   <xs:pattern value="Male|Female"/>
+							</xs:restriction>
+						  </xs:simpleType>
+						</xs:element>
+						
+						<xs:element name="Staff_Birthday" type="xs:date"/>
+						
+						<xs:element name="Staff_Position" type="xs:string"/>
+						
+						<xs:element name="Staff_Department">
+						  <xs:simpleType>
+							<xs:restriction base="xs:string">
+							  <xs:pattern value="[A-Z]{2}"/>
+							</xs:restriction>
+						  </xs:simpleType>
+						</xs:element>
+						
+						<xs:element name="Staff_Salary" type="xs:decimal"/>
+						
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<!-- End informations -->
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
