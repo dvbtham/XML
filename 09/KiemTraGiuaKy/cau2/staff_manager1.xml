@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE StaffsManagement SYSTEM "staff.dtd">
 <StaffsManagement>
 	<Staff>
 		<Staff_Code> S0001</Staff_Code>

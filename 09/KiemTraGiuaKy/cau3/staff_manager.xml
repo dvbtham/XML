@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE StaffsManagement SYSTEM "staff.dtd">
 <?xml-stylesheet type="text/css" href="staff.css"?>
 <StaffsManagement>
 	<header>Staffs Management</header>
