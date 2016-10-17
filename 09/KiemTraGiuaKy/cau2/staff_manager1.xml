@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<StaffsManagement>
+<StaffsManagement xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3schools.com file:///E:/ILearning/LTPM/XML/09/KiemTraGiuaKy/cau2/staff.xsd" xmlns="http://www.w3schools.com">
+
 	<Staff>
 		<Staff_Code> S0001</Staff_Code>
 		<Staff_Name> Trần Văn An</Staff_Name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<QuanLySinhVien xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3schools.com file:///E:/ILearning/LTPM/XML/07/bt_tonghop/sinhvien.xsd" xmlns="http://www.w3schools.com">
+<QuanLySinhVien xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3schools.com file:///E:/ILearning/LTPM/XML/07/bt_tonghop/staff.xsd" xmlns="http://www.w3schools.com">
 	<SinhVien>
 			<MaSV>A01</MaSV>
 			<HoSV>Nguyễn Thị</HoSV>
