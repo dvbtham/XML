@@ -35,7 +35,7 @@
 			 </tr>
 
 				 <xsl:for-each select="Staff">
-				 <xsl:if test="Staff_Gender[.='Male']">
+				 <xsl:if test="Staff_Gender[.=' Male']">
 					 	<tr>
 						 <td><xsl:value-of select="Staff_Code"/></td>
 						 <td><xsl:value-of select="Staff_Name"/></td>
